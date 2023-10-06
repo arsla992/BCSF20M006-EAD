@@ -1,0 +1,28 @@
+Total Marks: 10
+
+Build Success: 1
+Clean Code: 1
+	Proper Naming Convention: 0.5
+	Proper Indentation: 0.5
+Classes are Designed as per requirements: 2
+CalculatePrice - Business Critical Function: 1
+assignDriver - Service Critical Function: 1
+Input Validations for Location: 1 
+User-interface is managed properly: 1
+Any of Update function is done correctly: 1
+Followed all submission guidelines: 1
+--------------------------------------------------
+Your Score: 7.5/10
+
+Build Success: 1
+Clean Code: 1
+Classes are Designed as per requirements: 1 (Functionality is not working as specified in the Manual.)
+CalculatePrice - Business Critical Function: 1
+assignDriver - Service Critical Function: 1
+Input Validations for Location: 1 
+User-interface is managed properly: 0.5 (Not effectively managed - Can be improved a lot) 
+Any of Update function is done correctly: 1
+Followed all submission guidelines: 0 (Not followed the submission guidelines especially naming conventions)
+--------------------------------------------------
+Other things are fine!
+Keep improving!!
