@@ -86,7 +86,7 @@ namespace Assignemnt_03
             }
 
             //Task-02 (c)
-            T Sum<T>(T[] array)
+            T Sum<T>(T[] array) //You can use : Struct to allow only those types that can be addable... or you can use Default(T)
             {
                 if (array == null)
                 {
